@@ -4,7 +4,7 @@
   "description": "git config --local --edit",
   "main": "index.js",
   "scripts": {
-    "test": "jest --passWithNoTests",
+    "test": "jest --passWithNoTests --watch",
     "test:staged": "jest --passWithNoTests"
   },
   "keywords": [],
